@@ -1,133 +1,118 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,3&height=300&section=header&text=Hey%20There!%20I'm%20Gopika%20Dileep&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50"/>
-</div>
 
+# Gopika Dileep
+### Full Stack Developer · MERN Stack · Building things that matter
 
-
-## 🚀 **About Me**
-
-<table border="0" align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 **Current Focus**
-- ✅ **100 Days LeetCode Challenge COMPLETED**
-- 🌟 Building scalable MERN applications
-- 🛠️ Mastering system design patterns
-- 📚 Contributing to open source projects
-- 🎯 Learning cloud architecture (AWS)
-
-### ⚡ **Quick Stats**
-```javascript
-const GopikaDialeep = {
-    location: "Kerala, India 🇮🇳",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript"],
-    frameworks: ["React", "Node.js", "Express"],
-    databases: ["MongoDB", "PostgreSQL", "Firebase"],
-    challenge: "200+ LeetCode problems solved",
-    motto: "Code, Learn, Repeat 🔄"
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 **My Approach**
-> *"First, solve the problem. Then, write the code."* - John Johnson
-
-### 💡 **What Drives Me**
-- 🧩 **Problem Solving**: Complex algorithms and data structures
-- 🚀 **Innovation**: Creating impactful digital solutions
-- 📈 **Growth**: Continuous learning and improvement
-- 🤝 **Community**: Knowledge sharing and collaboration
-- 💪 **Persistence**: Never giving up on challenging problems
-
-### 🎪 **Beyond Code**
-- 🎵 Coding with lo-fi beats
-- 🌙 Night owl programmer
-- 🐛 Debugging detective
-- 🏆 Competitive programming enthusiast
-- ☕ Coffee-driven development
-
-</td>
-</tr>
-</table>
-
-
-## 🛠️ **Tech Arsenal**
-
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,figma" />
-  </p>
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Gopika-Dileep&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
-</div>
-
-### 📈 GitHub Activity Graph
-<a href="https://github.com/Gopika-Dileep">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopika-Dileep&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" 
-       width="850" height="300" alt="Contribution Graph"/>
-</a>
-<div align="center">
-
-<div align="center">
-
-### **🎯 LeetCode Achievement**
-
-[![LeetCode](https://img.shields.io/badge/365_Days_Champion-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Mj0pz5pmPE)
-
-<div align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="110" alt="100 Days Badge" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="110" alt="200 Days Badge" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2026-365.gif" width="110" alt="365 Days Badge 2026" />
-</div>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Gopika-Dileep?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-**🔥 Problems Solved: 300+ | Streak: 200+ Days | Rating: Growing!**
-
-</div>
-
-## 🌐 **Let's Connect & Collaborate**
-
-<div style="display:flex; gap:10px; align-items:center;">
-  <a href="https://www.linkedin.com/in/amal-nt-712b68247" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="object-fit:contain;" alt="LinkedIn Profile">
-  </a>
-
-  <a href="https://leetcode.com/Gopika-Dileep" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-      width="40"
-      height="40"
-      style="border-radius:10px; background:#111; padding:6px; object-fit:contain;"
-      alt="LeetCode Profile"
-    >
-  </a>
-
- 
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopika-dileep-545a1631b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Gopika-Dileep/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gopikadileep76@gmail.com)
+[![Location](https://img.shields.io/badge/Kerala,_India-4285F4?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
+## About
+
+I'm a self-driven MERN Stack developer from Muvattupuzha, Kerala, currently training at **Brototype** — a rigorous, self-learning-first program that pushes you to build real things from scratch, without handholding.
+
+With a background in **BSc Physics (CUSAT, 2024)**, I bring an analytical, problem-solving mindset to software development. I've independently built two industry-level full-stack applications — from architecture to deployment — and I'm actively sharpening my skills in data structures, algorithms, and system design.
+
+> I don't just write code. I understand why it works.
+
+---
+
+## Tech Stack
+
+**Languages**
+`JavaScript` `TypeScript` `C`
+
+**Frontend**
+`React.js` `HTML5` `CSS3` `Tailwind CSS` `Figma`
+
+**Backend**
+`Node.js` `Express.js`
+
+**Databases**
+`MongoDB` `SQL` `Firebase` `Redis`
+
+**Tools & Practices**
+`Git` `GitHub` `Postman` `Moon Modular` `DSA` `REST APIs`
+
+---
+
+## Projects
+
+### TimeEdge — E-Commerce Platform for Watches
+A fully functional e-commerce web application built with a traditional MVC architecture. Includes product management, cart system, order flow, and admin dashboard — all built independently from scratch.
+
+**Stack:** `Node.js` `Express.js` `MongoDB` `EJS` `JavaScript`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gopika-Dileep/TimeEdge)
+
+---
+
+### Syncro — AI-Integrated Project Management Tool
+A collaborative project management platform with real-time features and AI integration. Designed for teams to plan, track, and execute work efficiently.
+
+**Stack:** `React.js` `Node.js` `TypeScript` `MongoDB` `Redis`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gopika-Dileep/Syncro)
+
+---
+
+## Education & Training
+
+| | |
+|---|---|
+| 🎓 **BSc Physics** | Cochin University of Science and Technology (CUSAT) · 2024 |
+| 💻 **MERN Stack Development** | Brototype, Ernakulam · Ongoing · Self-learning methodology |
+
+---
+
+## Problem Solving
+
+Consistent practice in Data Structures & Algorithms on LeetCode — focused on writing clean, optimized solutions.
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=12,20,6,17,11,19&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Gopika-Dileep?theme=light&font=Nunito&ext=heatmap)](https://leetcode.com/u/Gopika-Dileep/)
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopika-Dileep&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=24292f&bg_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-Dileep&layout=compact&hide_border=true&title_color=0A66C2&text_color=24292f&bg_color=ffffff)
+
+</div>
+
+---
+
+## What I'm Working On
+
+- 🔨 &nbsp; Completing and polishing **Syncro** with full AI feature integration
+- 📐 &nbsp; Deepening knowledge in **System Design** and scalable architecture
+- 🧠 &nbsp; Solving DSA problems consistently on LeetCode
+- 🌐 &nbsp; Building my **personal portfolio website**
+- ☁️ &nbsp; Exploring **cloud deployment** with AWS
+
+---
+
+## Get In Touch
+
+I'm open to **junior developer roles**, **internships**, and **collaborations** on meaningful projects.
+
+📧 [gopikadileep76@gmail.com](mailto:gopikadileep76@gmail.com)
+💼 [linkedin.com/in/gopika-dileep-545a1631b](https://www.linkedin.com/in/gopika-dileep-545a1631b/)
+
+---
+
+<div align="center">
+<sub>Crafted with intention · Updated regularly · Open to opportunities</sub>
 </div>
