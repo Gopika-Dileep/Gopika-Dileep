@@ -1,12 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,3&height=300&section=header&text=Hey%20There!%20I'm%20Gopika%20Dileep&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50"/>
 </div>
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ3cTJ2MzM4c29tdzFybHo5azRwN21wMDdtemQ0ejJzemI0MnFodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" style="width:250px; height:auto;" alt="Coding gif" />
-</p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+
 
 
 ## 🚀 **About Me**
@@ -118,9 +113,7 @@ const GopikaDialeep = {
     >
   </a>
 
-  <a href="mailto:amalnt31@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" style="object-fit:contain;" alt="Email">
-  </a>
+ 
 </div>
 
 <div align="center">
@@ -128,8 +121,7 @@ const GopikaDialeep = {
 </div>
 
 
-### **☕ Support My Journey**
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amalforpcl)
+
 
 
 </div>
